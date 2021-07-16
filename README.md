@@ -8,6 +8,6 @@ The directory [properties](./properties) contains example properties in the [*SM
 - min\_max -- a formula that checks if the data set input values are within a min / max range ([-1,1])
 - well\_distributed -- a formula that checks that there doesn't exist a point which is more distant than a given constant (1) w.r.t. all the data set training examples
 
-Currently, the data set verification tool's source code is not publicly available. If you are interested in the tool or collaboration, please do not hesitate to [contact us](mailto:erick.petersen@airbus.com,jorge.lopez-c@airbus.com,claude.poletti@airbus.com?subject=Regarding%20DLinkEm). A small video showcasing the tool is shown in the video below.
+Currently, the data set verification tool's source code is not publicly available. If you are interested in the tool or collaboration, please do not hesitate to [contact us](mailto:jorge.lopez-c@airbus.com,maxime.labonne@airbus.com,claude.poletti@airbus.com?subject=Regarding%20DLinkEm). A small video showcasing the tool is shown in the video below.
 
 [![DSVerif Demo](https://github.com/jorgelopezcoronado/DSVerif/)](https://youtu.be/sHKCxnhETXg)
