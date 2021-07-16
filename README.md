@@ -10,4 +10,4 @@ The directory [properties](./properties) contains example properties in the [*SM
 
 Currently, the data set verification tool's source code is not publicly available. If you are interested in the tool or collaboration, please do not hesitate to [contact us](mailto:jorge.lopez-c@airbus.com,maxime.labonne@airbus.com,claude.poletti@airbus.com?subject=Regarding%20DLinkEm). A small video showcasing the tool is shown in the video below.
 
-[![DSVerif Demo](https://github.com/jorgelopezcoronado/DSVerif/)](https://youtu.be/sHKCxnhETXg)
+[![DSVerif Demo](https://raw.githubusercontent.com/jorgelopezcoronado/DSVerif/main/images/DSVerif_output.png)](https://youtu.be/sHKCxnhETXg)
