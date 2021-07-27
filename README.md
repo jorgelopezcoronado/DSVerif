@@ -10,4 +10,4 @@ The directory [properties](./properties) contains example properties in the [*SM
 
 Currently, the data set verification tool's source code is not publicly available. If you are interested in the tool or collaboration, please do not hesitate to [contact us](mailto:jorge.lopez-c@airbus.com,maxime.labonne@airbus.com,claude.poletti@airbus.com?subject=Regarding%20the%20data%20set%20verification%20tool...). A small video showcasing the tool is shown in the video below.
 
-https://user-images.githubusercontent.com/5852134/126334549-80712940-d4c8-4fad-8a98-ee22a4063466.mp4
+https://user-images.githubusercontent.com/5852134/127121795-4f4f3413-0b18-42f6-a8f6-6cba307cf54e.mp4
